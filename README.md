@@ -1,4 +1,1 @@
-docs
-====
-
-simple os docs and more
+# SimpleOS Docs and Ressources
